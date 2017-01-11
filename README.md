@@ -16,7 +16,7 @@ Example:
   <!-- Add 'js-footer-current-year' class to copyright year -->
   <p>&copy; <span class="js-footer-current-year">2010</span> Website name</p>
   <!-- Add 'js-footer-agency-url' class to agency website anchor tag -->
-  <p>Built by <a class="js-footer-agency-url" href="http://merchanttechnology.co.uk">Merchant Technology Marketing</a></p>
+  <p>Built by <a class="js-footer-agency" href="http://merchanttechnology.co.uk">Merchant Technology Marketing</a></p>
 </footer>
 ```
 
