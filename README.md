@@ -12,6 +12,6 @@ For this script to work all websites' footer must include the following attribut
 Script will run from a CDN.
 To trigger the script please place this snippet
 ```
-<script src=""></script>
+<script src="https://gitcdn.link/repo/merchanttech/footer-update/master/footer-update.js?token=AEYBWFqx2wkDGp9IEuAKFxg-nmaJwXRfks5Yf0sDwA=="></script>
 ```
 before the closing `</body>` tag.
