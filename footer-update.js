@@ -6,7 +6,7 @@ var updateFooterDetails = (function() {
   var $footerUpdateTrigger = $('[data-footer-update]');
   var footerUpdateValue = $footerUpdateTrigger[0].attributes[0].value;
   var $footerCurrentYear = $('.js-footer-current-year');
-  var $footerAgency = $('.js-footer-agency-url');
+  var $footerAgency = $('.js-footer-agency');
   var currentYear = new Date().getFullYear();
 
   // Add current year
